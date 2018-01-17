@@ -1,0 +1,12 @@
+<ASA023_Saipan_1946_Bow_ports.model>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	0.004238 0.907453 5.140798	</min>
+		<max>	0.004238 0.907453 5.140798	</max>
+	</visibilityBox>
+	<extent>	200.0000	</extent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Saipan/ASA507_Saipan_1946/ship/ASA023_Saipan_1946_Bow_ports	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASA023_Saipan_1946_Bow_ports.model>

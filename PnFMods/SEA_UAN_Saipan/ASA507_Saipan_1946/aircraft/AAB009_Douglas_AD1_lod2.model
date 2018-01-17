@@ -1,0 +1,13 @@
+<AAB009_Douglas_AD1_lod2.model>
+	<extent>	40.0000	</extent>
+	<parent>	PnFMods/SEA_UAN_Saipan/ASA507_Saipan_1946/aircraft/AAB009_Douglas_AD1_lod3	</parent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.508078 0.094766 -0.610561	</min>
+		<max>	0.507120 0.353039 0.177218	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Saipan/ASA507_Saipan_1946/aircraft/AAB009_Douglas_AD1_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AAB009_Douglas_AD1_lod2.model>

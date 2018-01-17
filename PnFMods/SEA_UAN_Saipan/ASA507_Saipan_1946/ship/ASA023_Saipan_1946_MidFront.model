@@ -1,0 +1,13 @@
+<ASA023_Saipan_1946_MidFront.model>
+	<parent>	PnFMods/SEA_UAN_Saipan/ASA507_Saipan_1946/ship/ASA023_Saipan_1946_MidFront_lod1	</parent>
+	<extent>	6.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	-1.532354 -0.549781 -0.708643	</min>
+		<max>	1.263832 2.758296 4.236812	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Saipan/ASA507_Saipan_1946/ship/ASA023_Saipan_1946_MidFront	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASA023_Saipan_1946_MidFront.model>

@@ -1,0 +1,13 @@
+<ASA023_Saipan_1946_Bow.model>
+	<parent>	PnFMods/SEA_UAN_Saipan/ASA507_Saipan_1946/ship/ASA023_Saipan_1946_Bow_lod1	</parent>
+	<extent>	6.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	-1.195389 -0.550702 3.718078	</min>
+		<max>	1.079337 1.511216 6.830581	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Saipan/ASA507_Saipan_1946/ship/ASA023_Saipan_1946_Bow	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASA023_Saipan_1946_Bow.model>

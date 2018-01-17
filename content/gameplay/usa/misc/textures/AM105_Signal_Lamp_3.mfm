@@ -1,0 +1,17 @@
+<AM105_Signal_Lamp_3.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	content/gameplay/usa/misc/textures/AM105_Signal_Lamp_3_a.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	content/gameplay/usa/misc/textures/AM105_Signal_Lamp_3_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	content/gameplay/usa/misc/textures/AM105_Signal_Lamp_3_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	content/gameplay/common/textures/default_ao.tga	</Texture>
+	</property>
+</AM105_Signal_Lamp_3.mfm>

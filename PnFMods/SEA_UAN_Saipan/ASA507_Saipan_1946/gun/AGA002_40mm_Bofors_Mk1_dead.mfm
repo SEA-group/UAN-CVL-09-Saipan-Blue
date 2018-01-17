@@ -1,0 +1,20 @@
+<AGA002_40mm_Bofors_Mk1_dead.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.000000	</Float>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Saipan/ASA507_Saipan_1946/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Saipan/ASA507_Saipan_1946/gun/AGA002_40mm_Bofors_Mk1_dead_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Saipan/ASA507_Saipan_1946/gun/AGA002_40mm_Bofors_Mk1_dead_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Saipan/ASA507_Saipan_1946/gun/AGA002_40mm_Bofors_Mk1_dead_a.dds	</Texture>
+	</property>
+</AGA002_40mm_Bofors_Mk1_dead.mfm>
