@@ -1,0 +1,8 @@
+<APT013_Avia_Torpedo_Mk13_2_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/projectile/APT013_Avia_Torpedo_Mk13_2_lod3	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/projectile/APT013_Avia_Torpedo_Mk13_2_lod2	</nodefullVisual>
+	<extent>	25.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</APT013_Avia_Torpedo_Mk13_2_lod2.model>

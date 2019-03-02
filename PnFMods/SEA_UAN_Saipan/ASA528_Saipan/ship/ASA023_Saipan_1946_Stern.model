@@ -1,0 +1,13 @@
+<ASA023_Saipan_1946_Stern.model>
+	<parent>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/ASA023_Saipan_1946_Stern_lod1	</parent>
+	<extent>	6.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	-1.181504 -0.636984 -6.962217	</min>
+		<max>	1.354715 1.436370 -3.026250	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/ASA023_Saipan_1946_Stern	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASA023_Saipan_1946_Stern.model>
