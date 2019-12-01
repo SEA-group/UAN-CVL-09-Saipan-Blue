@@ -169,12 +169,75 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_Fire_Burn_3	</identifier>
+				<identifier>	HP_FX_Fire_3	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.2354 -2.0634 1.0000	</row3>
+					<row3>	0.0000 0.7667 -2.0635 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_steam_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	1.0920 1.2362 -1.6031 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_steam_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	1.0920 1.2321 -0.9714 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_steam_right	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.7880 0.8700 -1.9860 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_water_left_2	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.7630 0.2260 -2.0480 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_water_right_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.7630 0.2260 -2.0480 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Smoke_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	1.0447 1.2636 -0.8379 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Smoke_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	1.0450 1.2653 -1.4706 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -193,24 +256,6 @@
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
 					<row3>	0.0000 0.0000 0.0140 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_Smoke_2	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	1.0447 1.2636 -0.8379 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_Smoke_3	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	1.0450 1.2653 -1.4706 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
