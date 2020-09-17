@@ -11,7 +11,7 @@
 		<max>	0.134622 0.236918 0.089282	</max>
 	</visibilityBox>
 	<extent>	2.0000	</extent>
-	<parent>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/radar/ARS015_Radar_SP_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/radar/lods/ARS015_Radar_SP_lod1	</parent>
 	<animation>
 		<name>	Rotation5rpm	</name>
 		<frameRate>	30.000000	</frameRate>

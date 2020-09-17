@@ -1,6 +1,6 @@
 <APT013_Avia_Torpedo_Mk13_2.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/projectile/APT013_Avia_Torpedo_Mk13_2_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/projectile/lods/APT013_Avia_Torpedo_Mk13_2_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/projectile/APT013_Avia_Torpedo_Mk13_2	</nodefullVisual>
 	<extent>	3.0000	</extent>
 	<castsShadow>	false	</castsShadow>

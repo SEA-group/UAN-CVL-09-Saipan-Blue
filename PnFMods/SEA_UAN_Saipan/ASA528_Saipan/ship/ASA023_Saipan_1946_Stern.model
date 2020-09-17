@@ -1,5 +1,5 @@
 <ASA023_Saipan_1946_Stern.model>
-	<parent>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/ASA023_Saipan_1946_Stern_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/lods/ASA023_Saipan_1946_Stern_lod1	</parent>
 	<extent>	6.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

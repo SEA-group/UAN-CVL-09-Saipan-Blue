@@ -1,7 +1,7 @@
 <AGA008_40mm_Bofors_Mk2_dead.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	4.0000	</extent>
-	<parent>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/gun/AGA008_40mm_Bofors_Mk2_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/gun/lods/AGA008_40mm_Bofors_Mk2_dead_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.138372 0.000000 -0.103568	</min>
