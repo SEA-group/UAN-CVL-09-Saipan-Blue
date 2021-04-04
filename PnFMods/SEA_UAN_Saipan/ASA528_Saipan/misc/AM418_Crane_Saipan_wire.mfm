@@ -1,0 +1,14 @@
+<AM418_Crane_Saipan.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/misc/AM418_Crane_Saipan_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/misc/AM418_Crane_Saipan_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/misc/AM418_Crane_Saipan_a.dds	</Texture>
+	</property>
+</AM418_Crane_Saipan.mfm>
