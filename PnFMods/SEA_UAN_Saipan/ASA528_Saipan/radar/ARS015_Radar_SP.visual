@@ -75,7 +75,7 @@
 			<primitive>	ARS015_Radar_SP1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Radar	</identifier>
+					<identifier>	SHIPMATX_PBS_Radar	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/radar/ARS015_Radar_SP_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

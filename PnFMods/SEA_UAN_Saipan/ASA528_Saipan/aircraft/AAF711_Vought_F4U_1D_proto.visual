@@ -750,7 +750,7 @@
 			<primitive>	HullShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/aircraft/AAF711_Vought_F4U_1D_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -764,7 +764,7 @@
 			<primitive>	chassis_on_BlendBoneShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/aircraft/AAF711_Vought_F4U_1D.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -778,7 +778,7 @@
 			<primitive>	pylon_rocket_default_BlendBoneShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/aircraft/AAF711_Vought_F4U_1D.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -792,7 +792,7 @@
 			<primitive>	chassis_off_BlendBoneShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/aircraft/AAF711_Vought_F4U_1D.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -806,7 +806,7 @@
 			<primitive>	hull_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/aircraft/AAF711_Vought_F4U_1D_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -834,7 +834,7 @@
 			<primitive>	modShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/aircraft/AAF711_Vought_F4U_1D.mfm	</mfm>
 				</material>
 			</primitiveGroup>

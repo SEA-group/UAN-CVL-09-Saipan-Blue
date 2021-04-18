@@ -74,7 +74,7 @@
 			<primitive>	Bofors_lodShape2.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/gun/AGA056_40mm_Bofors.mfm	</mfm>
 				</material>
 			</primitiveGroup>

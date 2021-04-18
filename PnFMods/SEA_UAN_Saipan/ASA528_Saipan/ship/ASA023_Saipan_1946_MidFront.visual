@@ -146,7 +146,7 @@
 			<primitive>	MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/ASA023_Saipan_1946_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -174,7 +174,7 @@
 			<primitive>	MidFront_crack_BowShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/ASA023_Saipan_1946_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -188,7 +188,7 @@
 			<primitive>	MidFront_crack_Bow_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -202,7 +202,7 @@
 			<primitive>	MidFront_crack_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/ASA023_Saipan_1946_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -216,7 +216,7 @@
 			<primitive>	MidFront_crack_MidBack_inShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -230,7 +230,7 @@
 			<primitive>	MidFront_crack_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/ASA023_Saipan_1946_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -244,7 +244,7 @@
 			<primitive>	MidFront_patch_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/ASA023_Saipan_1946_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -258,7 +258,7 @@
 			<primitive>	MidFront_patch_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/ASA023_Saipan_1946_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -272,7 +272,7 @@
 			<primitive>	MidFront_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Saipan/ASA528_Saipan/ship/ASA023_Saipan_1946_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
